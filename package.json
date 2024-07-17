@@ -2,7 +2,7 @@
   "name": "route-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pup123.github.io/routeTask",
+  "homepage": "https://pup123.github.io/routetask",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@testing-library/jest-dom": "^5.17.0",
